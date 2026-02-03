@@ -18,4 +18,5 @@ Exploring Communication Systems & AI-integrated IoT
 - Smart Dustbin with Voice Assist
 
 ## Connect with me
-- LinkedIn: (add later)
+- LinkedIn:[https://www.linkedin.com/in/avinash-shetty-7a17b734a)]
+
